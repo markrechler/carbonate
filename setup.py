@@ -19,8 +19,8 @@ setup(
     packages=find_packages(),
     long_description = read('README.md'),
     install_requires = [
-      "carbon",
-      "whisper",
+      "carbon>=0.9.12",
+      "whisper>=0.9.12",
     ],
     entry_points = {
         'console_scripts': [
