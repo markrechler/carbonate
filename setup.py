@@ -8,7 +8,7 @@ def read(fname):
 
 setup(
     name="carbonate",
-    version=__version__,
+    version="0.2.1",
     author="Scott Sanders",
     author_email="scott@jssjr.com",
     description=("Tools for managing federated carbon clusters."),
